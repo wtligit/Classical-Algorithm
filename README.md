@@ -5,7 +5,7 @@ LCS:最长公共子序列
 
 treeConstruct：前序中序构建二叉树，后序中序构建二叉树
 
-queueImp: 链栈的实现
+queueImp: 链队列的实现
 
 stackImp: 数组栈的实现
 
